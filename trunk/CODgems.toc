@@ -1,0 +1,4 @@
+## Interface: 40000
+## Title: COD Gems
+## Notes: Attempts to automatically COD gems after they are placed in the item window.
+COD.lua
